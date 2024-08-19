@@ -1,0 +1,5 @@
+Git
+
+git conffig user.name 
+git conffig user. email 
+git init- repositório 
